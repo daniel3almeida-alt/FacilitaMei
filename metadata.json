@@ -1,0 +1,6 @@
+{
+  "name": "FacilitaMei - Gestão Integrada PJ & PF",
+  "description": "Plataforma de gestão financeira inteligente para MEI com separação e sincronização automática entre Conta Jurídica (PJ) e Finanças Pessoais (PF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
